@@ -110,6 +110,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ahmadfa100.ahmadfa100&"  />
 </div>
 
-![snake gif](https://raw.githubusercontent.com/ahmadfa100/ahmadfa100/output/github-contribution-grid-snake.gif)
+![snake gif](https://raw.githubusercontent.com/ahmadfa100/ahmadfa100/output/dist/github-contribution-grid-snake.gif)
 
 ###
