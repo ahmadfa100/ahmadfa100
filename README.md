@@ -1,6 +1,9 @@
 Ahmad Faisal - Software Engineer from Jordan
 # 💫 About Me:
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZndjVnOGFiNGV2OG1pOGJja2pma2tyc2JpOXp0NGwweDNqeHZ4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kfLxX6jUuFTZMMQEvK/giphy.gif"  />
 🔭 I’m currently working on full-stack development projects, including innovative web applications.<br>👯 I’m looking to collaborate on open-source projects involving React, Node.js, or databases.<br>🌱 I’m currently learning AI, Machine Learning, and advanced data science techniques.<br>💬 Ask me about JavaScript, React, full-stack architecture, or anything tech-related.<br> I am very interested in app development.
+
+
 
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmad100.fa100@example.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://jo.linkedin.com/in/ahmad-faisal-a9a075346/ar) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AhmadFa100) 
@@ -30,8 +33,7 @@ Ahmad Faisal - Software Engineer from Jordan
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ahmadfa100&theme=dracula)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ahmadfa100&limit=5&theme=dracula&combine_all_yearly_contributions=true)
