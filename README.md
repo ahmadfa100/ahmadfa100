@@ -1,4 +1,4 @@
-Ahmad Faisal - Software Engineer from Jordan
+[Ahmad Bani Hamad - Software Engineer from Jordan
 # 💫 About Me:
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZndjVnOGFiNGV2OG1pOGJja2pma2tyc2JpOXp0NGwweDNqeHZ4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kfLxX6jUuFTZMMQEvK/giphy.gif"  />
 🔭 I’m currently working on full-stack development projects, including innovative web applications.<br>👯 I’m looking to collaborate on open-source projects involving ASP.NET,  React, Node.js, or databases.<br>🌱 I’m currently learning AI, Machine Learning, and advanced data science techniques.<br>💬 Ask me about ASP.NET core, Node.JS, full-stack architecture, or anything tech-related.<br> I am very interested in app development.
@@ -44,3 +44,4 @@ Ahmad Faisal - Software Engineer from Jordan
 ![snake gif](https://raw.githubusercontent.com/ahmadfa100/ahmadfa100/main/output/github-contribution-grid-snake.gif)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+](https://www.linkedin.com/in/ahmad-faisal-dev/)
