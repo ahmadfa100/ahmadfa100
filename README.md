@@ -1,47 +1,216 @@
-[Ahmad Bani Hamad - Software Engineer from Jordan
-# 💫 About Me:
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZndjVnOGFiNGV2OG1pOGJja2pma2tyc2JpOXp0NGwweDNqeHZ4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kfLxX6jUuFTZMMQEvK/giphy.gif"  />
-🔭 I’m currently working on full-stack development projects, including innovative web applications.<br>👯 I’m looking to collaborate on open-source projects involving ASP.NET,  React, Node.js, or databases.<br>🌱 I’m currently learning AI, Machine Learning, and advanced data science techniques.<br>💬 Ask me about ASP.NET core, Node.JS, full-stack architecture, or anything tech-related.<br> I am very interested in app development.
+<h1 align="center">Hi 👋, I'm Ahmad Bani Hamad</h1>
 
+<h3 align="center">
+  Software Engineer • Full-Stack Developer • iOS Developer from Jordan 🇯🇴
+</h3>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Building+full-stack+web+applications;Developing+iOS+products+with+SwiftUI;ASP.NET+Core+%7C+Angular+%7C+React+%7C+Node.js;Always+learning.+Always+building."
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmad100.fa100@example.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://jo.linkedin.com/in/ahmad-faisal-a9a075346/ar)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmad-faisal-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmad%20Faisal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ahmad100.fa100@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/ahmadfa100">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-# 💻 Tech Stack:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmadfa100&label=Profile%20Views&color=2f81f7&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Open%20to-Junior%20Software%20Engineering%20Roles-2ea44f?style=flat-square" alt="Open to work" />
+</p>
 
-### Front-end Technologies
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=white)
+👨‍💻 About Me
 
-### Back-end Technologies
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+🎓 Software Engineering graduate from Jordan University of Science and Technology (JUST).
 
-### Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd33)
+🧩 I build full-stack web applications, REST APIs, and production-focused iOS experiences.
 
-### Dev Tools & Design
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+🍎 Creator of Fresh Mind, a published digital-wellbeing iOS application.
 
-### Other Languages & Libraries
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+🧑‍🏫 I teach full-stack web development and QA fundamentals.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ahmadfa100&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahmadfa100&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadfa100&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+⚙️ My main focus is ASP.NET Core, Angular, REST APIs, SQL, and SwiftUI.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ahmadfa100&theme=dracula)
+🧪 I have hands-on experience with requirements analysis, test cases, bug reporting, and software documentation.
 
+🤝 Open to junior software engineering, backend, full-stack, and iOS opportunities.
 
+🚀 What I'm Working On
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ahmadfa100&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+Building and improving full-stack applications with ASP.NET Core and Angular.
 
----
-[![](https://visitcount.itsvg.in/api?id=ahmadfa100&icon=0&color=0)](https://visitcount.itsvg.in)
+Developing iOS products using SwiftUI, SwiftData, StoreKit, and Apple Screen Time APIs.
 
-![snake gif](https://raw.githubusercontent.com/ahmadfa100/ahmadfa100/main/output/github-contribution-grid-snake.gif)
+Strengthening my skills in software architecture, authentication, testing, and cloud fundamentals.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-](https://www.linkedin.com/in/ahmad-faisal-dev/)
+Creating practical programming material for students learning web development and QA.
+
+🏗️ Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Fresh Mind</h3>
+      <p align="center">
+        <a href="https://ahmadfa100.github.io/fresh-mind-landing-page/">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadfa100&repo=fresh-mind-landing-page&theme=tokyonight&hide_border=true" alt="Fresh Mind Landing Page" />
+        </a>
+      </p>
+      <p>
+        A published iOS digital-wellbeing app designed to help users build healthier screen-time habits through a calm, motivating experience.
+      </p>
+      <p>
+        <strong>Technologies:</strong> SwiftUI, SwiftData, StoreKit, FamilyControls, DeviceActivity, ManagedSettings, WidgetKit.
+      </p>
+      <p align="center">
+        <a href="https://ahmadfa100.github.io/fresh-mind-landing-page/"><strong>Live Website</strong></a>
+        ·
+        <a href="https://github.com/ahmadfa100/fresh-mind-landing-page"><strong>Landing Page Repository</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Green Bridge</h3>
+      <p align="center">
+        <a href="https://github.com/ahmadfa100/graduation-project-2">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadfa100&repo=graduation-project-2&theme=tokyonight&hide_border=true" alt="Green Bridge" />
+        </a>
+      </p>
+      <p>
+        A full-stack platform that connects agricultural landowners with farmers, allowing land listing, discovery, rental, and real-time communication.
+      </p>
+      <p>
+        <strong>Technologies:</strong> React, Node.js, Express, PostgreSQL, Socket.IO, Material UI, Cypress.
+      </p>
+      <p align="center">
+        <a href="https://github.com/ahmadfa100/graduation-project-2"><strong>View Repository</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+🧰 Tech Stack
+
+Core Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,ts,js,swift,python,cpp,java,html,css&perline=9" alt="Core languages" />
+</p>
+
+Front-End Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,bootstrap,sass,figma&perline=8" alt="Front-end technologies" />
+</p>
+
+Back-End Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express&perline=8" alt="Back-end technologies" />
+</p>
+
+Databases & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase&perline=8" alt="Databases" />
+</p>
+
+Mobile & Apple Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=swift,xcode&perline=8" alt="Apple development" />
+</p>
+
+Tools, Testing & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio,npm&perline=8" alt="Development tools" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+</p>
+
+📌 Professional Highlights
+
+📱 Built and published an iOS application on the App Store.
+
+🌐 Developed full-stack applications using both JavaScript and .NET ecosystems.
+
+🧪 Completed practical QA training covering SRS documents, workflows, test plans, test cases, and bug reports.
+
+🧠 Completed NVIDIA training in the fundamentals of deep learning.
+
+📚 Experienced in explaining programming concepts to beginner developers through practical projects.
+
+📊 GitHub Analytics
+
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=ahmadfa100&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="Ahmad's GitHub stats"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadfa100&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Ahmad's most used languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com?user=ahmadfa100&theme=tokyonight&hide_border=true"
+    alt="Ahmad's GitHub streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="98%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadfa100&theme=tokyo-night&hide_border=true&area=true"
+    alt="Ahmad's GitHub activity graph"
+  />
+</p>
+
+🐍 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/ahmadfa100/ahmadfa100/main/output/github-contribution-grid-snake.gif"
+    alt="GitHub contribution snake"
+  />
+</p>
+
+🤝 Let's Connect
+
+<p align="center">
+  I'm interested in collaborating on meaningful web, backend, mobile, and open-source projects.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmad-faisal-dev/">
+    <img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:ahmad100.fa100@gmail.com">
+    <img src="https://img.shields.io/badge/Send%20me%20an%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+  </a>
+</p>
+
+<p align="center">
+  <em>“Build with purpose, learn continuously, and improve one commit at a time.”</em>
+</p>
